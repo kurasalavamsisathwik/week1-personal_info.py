@@ -36,14 +36,14 @@ print("Your favorite color is:", color)
 print("those are the best picks")
 # to display info using f strings and seperators
 print("Apple","orange","mango",sep=",")
-car = B M W
-print(f "my favorite car is{car}")
+car = "maserati"
+print(f"my favorite car is {car}")
 # to display age in months
 age = int(input("enter your age :"))
 age_in_months = age * 12
 print("your age in months is ",age_in_months)
 # good bye message
-print("=" * 40)
+print("=" * 40)s
 print("THANKS FOR REVIEWING THE PROGRAM")
 print("=" * 40)
 
